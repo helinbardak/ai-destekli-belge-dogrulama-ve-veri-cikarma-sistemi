@@ -1,0 +1,2 @@
+COMPANY_THRESHOLD = 90
+VISION_MODEL = "qwen/qwen3.6-27b"
